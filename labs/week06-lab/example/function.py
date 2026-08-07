@@ -112,6 +112,10 @@ def square(n):
     """Returns the square of a number"""
     return n * n
 
+#จากตัวอย่างด้านบน ให้เขียนfuntion ชื่อsquare_root(n):
+def square_root(n):
+    return n ** 0.5
+
 print("Using return values in expressions:")
 result = multiply(4, 5) + square(3)
 print(f"multiply(4, 5) + square(3) = {multiply(4, 5)} + {square(3)} = {result}")
@@ -175,7 +179,7 @@ def demonstrate_scope():
     
     # Modifying global variable (need global keyword)
     global counter
-    counter += 1
+    counter += 1  
     print(f"Counter inside function: {counter}")
 
 print("Scope demonstration:")
