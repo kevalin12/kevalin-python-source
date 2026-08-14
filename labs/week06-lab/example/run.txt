@@ -1,0 +1,59 @@
+#part1
+#exemple1
+calling say Hellohello worid
+welcom to python function
+#exemple2
+#("_" * 40) คือ string อยู่ในดับเบิ้ลโค้ด ทำแบบนี้40รอบ
+#this is between separators
+
+#part2
+#example1
+#calling greet_person with different names
+#(f"Hello {Name}! Nice to meet you")
+#Hello Alice Nice to meet you
+#Hello Bob Nice to meet you
+#Heiio Charlie Nice to meet you
+#exemple2
+#มีf ต้องดูดีๆ
+#calling introduce_person
+#Hi my name is Diana
+#I am 25 years old 
+#I live in New York
+#Hi my name is Eve
+#I am 30 years old
+#I live in Los Angeles
+#exemple3
+#Calculating rectangle areas
+#Rectangle with length 5 and with3
+#Area = 5*3 =15
+#Rectangle with length 10 and with7
+#Area = 10*7 =70
+
+#part3
+#exemple1
+#Using functions that return values
+#5+3=8
+#10+7=17
+#sum of both result : 25
+#exemple2
+#Circle calculations:
+#Circle with radius :5
+#Area:78.5
+#Circumference:31.4
+
+#part4
+#exemple1
+#Using default parameter
+#Hello, Mr./Ms. Smith!
+#Hello, Dr. Johnson!
+#Hello, Prof. Brown
+#example2
+#Multiple default parameters:
+#Profile Alice,Age 18, Country:Unknown
+#Profile Bob ,Age 25, Country:Unknown
+#Profile Charlie,Age 30,Country: USA
+
+#part6
+#example1
+
+
