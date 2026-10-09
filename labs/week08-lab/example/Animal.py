@@ -21,7 +21,7 @@ class Dog(Animal):
         super().__init__(name, "Canine")  # Call parent constructor
         self.breed = breed
     
-    # Method overriding
+    # Method overriding รับถ่ายทอดจากแม่
     def make_sound(self):
         print(f"{self.name} barks: Woof!")
     

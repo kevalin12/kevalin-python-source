@@ -22,7 +22,7 @@ class BankAccount:
             self.transaction_history.append(f"Withdrew: ${amount}")
             return f"Withdrew ${amount}. New balance: ${self.balance}"
         elif amount > self.balance:
-            return "Insufficient funds"
+            return "Insufficient funds"  
         else:
             return "Withdrawal amount must be positive"
     
